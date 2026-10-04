@@ -1,0 +1,4 @@
+The summation of 5 and 2 is: 7
+The subtraction of 5 and 2 is: 3
+The multiplication of 5 and 2 is: 10
+The division of 5 and 2 is: 2.500000
