@@ -1,15 +1,20 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-    int a, b;
-    scanf("%d %d", &a, &b);
-    if(1 <= a && b <= 10000){
-        if(a*2 == b || b*2 == a){
-            printf("Yes");
+    int N;
+    scanf("%d", &N);
+    for (int i = 1; i <= N; i++)
+    {
+        
+        if (i % 5 == 0)
+        {
+            printf("%d Yes \n", N);
         }
-        else{
-            printf("No");
+        else
+        {
+            printf("%d No \n", N);
         }
     }
+
     return 0;
 }
