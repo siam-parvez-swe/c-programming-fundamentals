@@ -1,1 +1,0 @@
-The modulus of 5 and 2 is: 1
