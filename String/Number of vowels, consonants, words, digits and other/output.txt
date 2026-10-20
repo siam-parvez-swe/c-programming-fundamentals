@@ -1,0 +1,6 @@
+Enter a string 
+Vowel = 6
+Consonant = 7
+Digit = 0
+Word = 4
+Others = 0
