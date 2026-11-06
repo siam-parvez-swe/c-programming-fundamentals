@@ -1,0 +1,6 @@
+Ceil: 5
+Floor: 4
+Round: 5
+Sqrt: 4.472136
+Pow: 8
+Abs: 5
